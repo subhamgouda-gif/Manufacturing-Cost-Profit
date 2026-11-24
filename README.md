@@ -48,3 +48,7 @@ START -> Read batch -> Calculate material, wastage, labor, machine costs
 ```powershell
 python main.py
 ```
+
+## Live Streamlit deployment
+
+https://manufacturing-cost-profit-7er8wzs3bp7q3lnjqhnhuo.streamlit.app/
